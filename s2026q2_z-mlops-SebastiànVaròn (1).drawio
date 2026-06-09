@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="Db6Gub-LG-H_8SX34i8B">
+    <mxGraphModel dx="1770" dy="1011" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NNHa9AjM2qQtBTZo5P9e-19" edge="1" parent="1" source="NNHa9AjM2qQtBTZo5P9e-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NNHa9AjM2qQtBTZo5P9e-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNHa9AjM2qQtBTZo5P9e-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="&lt;h3&gt;MLOps - La Fábrica de Modelos&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="130" width="200" x="-90" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="NNHa9AjM2qQtBTZo5P9e-18" edge="1" parent="1" source="NNHa9AjM2qQtBTZo5P9e-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NNHa9AjM2qQtBTZo5P9e-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNHa9AjM2qQtBTZo5P9e-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="&lt;h3&gt;AIOps - El Guardián de la Infraestructura&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="130" width="200" x="440" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="NNHa9AjM2qQtBTZo5P9e-12" edge="1" parent="1" source="NNHa9AjM2qQtBTZo5P9e-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NNHa9AjM2qQtBTZo5P9e-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNHa9AjM2qQtBTZo5P9e-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="&lt;li&gt;&lt;p data-path-to-node=&quot;3,0,0&quot;&gt;&lt;b data-path-to-node=&quot;3,0,0&quot; data-index-in-node=&quot;0&quot;&gt;Data Ingestion &amp;amp; Prep:&lt;/b&gt; Aquí se aplican procesos de limpieza, normalización y, sobre todo, &lt;b data-path-to-node=&quot;3,0,0&quot; data-index-in-node=&quot;90&quot;&gt;Feature Engineering&lt;/b&gt;. Es donde aseguras que los datos sean representativos para evitar sesgos desde el origen.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;3,1,0&quot;&gt;&lt;/p&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="100" width="300" x="-140" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="NNHa9AjM2qQtBTZo5P9e-13" edge="1" parent="1" source="NNHa9AjM2qQtBTZo5P9e-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NNHa9AjM2qQtBTZo5P9e-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNHa9AjM2qQtBTZo5P9e-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="&lt;li&gt;&lt;p data-path-to-node=&quot;3,0,0&quot;&gt;&lt;br&gt;&lt;b data-path-to-node=&quot;3,1,0&quot; data-index-in-node=&quot;0&quot;&gt;Training &amp;amp; Validation:&lt;/b&gt; No solo se entrena el modelo; se ejecutan pruebas de &lt;i data-path-to-node=&quot;3,1,0&quot; data-index-in-node=&quot;76&quot;&gt;backtesting&lt;/i&gt;. Aquí se define si el modelo cumple con los umbrales de precisión antes de ser aprobado.&lt;/p&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="90" width="300" x="-140" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="NNHa9AjM2qQtBTZo5P9e-14" edge="1" parent="1" source="NNHa9AjM2qQtBTZo5P9e-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NNHa9AjM2qQtBTZo5P9e-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNHa9AjM2qQtBTZo5P9e-21" edge="1" parent="1" source="NNHa9AjM2qQtBTZo5P9e-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NNHa9AjM2qQtBTZo5P9e-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNHa9AjM2qQtBTZo5P9e-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;3,2,0&quot;&gt;&lt;b data-path-to-node=&quot;3,2,0&quot; data-index-in-node=&quot;0&quot;&gt;Model Registry:&lt;/b&gt; Es la &quot;biblioteca&quot; central. Aquí guardas el modelo con sus metadatos (hiperparámetros, versión de los datos, fecha de entrenamiento). Es vital para la trazabilidad.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;3,3,0&quot;&gt;&lt;/p&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="80" width="300" x="-140" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="NNHa9AjM2qQtBTZo5P9e-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="&lt;li&gt;&lt;br&gt;&lt;b data-path-to-node=&quot;3,3,0&quot; data-index-in-node=&quot;0&quot;&gt;Deployment (CI/CD/CT):&lt;/b&gt; El &quot;CT&quot; (Continuous Training) es clave aquí. Si el modelo se degrada en producción, el pipeline debe ser capaz de re-entrenar automáticamente.&lt;/li&gt;" vertex="1">
+          <mxGeometry height="90" width="300" x="-140" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="NNHa9AjM2qQtBTZo5P9e-15" edge="1" parent="1" source="NNHa9AjM2qQtBTZo5P9e-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NNHa9AjM2qQtBTZo5P9e-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNHa9AjM2qQtBTZo5P9e-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="&lt;li&gt;&lt;p data-path-to-node=&quot;3,0,0&quot;&gt;&lt;br&gt;&lt;b data-path-to-node=&quot;6,0,0&quot; data-index-in-node=&quot;0&quot;&gt;IT Infrastructure:&lt;/b&gt; Es el entorno real (nubes como AWS/Azure, servidores físicos, contenedores Kubernetes).&lt;/p&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="70" width="300" x="390" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="NNHa9AjM2qQtBTZo5P9e-16" edge="1" parent="1" source="NNHa9AjM2qQtBTZo5P9e-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NNHa9AjM2qQtBTZo5P9e-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNHa9AjM2qQtBTZo5P9e-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="&lt;li&gt;&lt;p data-path-to-node=&quot;3,0,0&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;6,1,0&quot;&gt;&lt;b data-path-to-node=&quot;6,1,0&quot; data-index-in-node=&quot;0&quot;&gt;Telemetry &amp;amp; Logs:&lt;/b&gt; Aquí capturas todo el &quot;pulso&quot; del sistema: latencia, uso de CPU, tasas de error 5xx, logs de eventos del sistema.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;6,2,0&quot;&gt;&lt;/p&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="90" width="300" x="390" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="NNHa9AjM2qQtBTZo5P9e-17" edge="1" parent="1" source="NNHa9AjM2qQtBTZo5P9e-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NNHa9AjM2qQtBTZo5P9e-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNHa9AjM2qQtBTZo5P9e-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="&lt;li&gt;&lt;p data-path-to-node=&quot;3,0,0&quot;&gt;&lt;br&gt;&lt;b data-path-to-node=&quot;6,2,0&quot; data-index-in-node=&quot;0&quot;&gt;AIOps Engine (El cerebro):&lt;/b&gt; Aquí es donde entran los modelos de &lt;b data-path-to-node=&quot;6,2,0&quot; data-index-in-node=&quot;63&quot;&gt;Detección de Anomalías&lt;/b&gt; y &lt;b data-path-to-node=&quot;6,2,0&quot; data-index-in-node=&quot;88&quot;&gt;Análisis de Causa Raíz (RCA)&lt;/b&gt;. Este motor no solo mira reglas fijas (como &quot;si CPU &amp;gt; 90%&quot;), sino que detecta comportamientos inusuales que reglas simples ignorarían.&lt;/p&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="110" width="300" x="390" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="NNHa9AjM2qQtBTZo5P9e-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="&lt;li&gt;&lt;p data-path-to-node=&quot;3,0,0&quot;&gt;&lt;br&gt;&lt;b data-path-to-node=&quot;6,3,0&quot; data-index-in-node=&quot;0&quot;&gt;Automated Response:&lt;/b&gt; La ejecución. Puede ser auto-escalado de infraestructura, aislamiento de un nodo infectado o despliegue de parches.&lt;/p&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="80" width="300" x="390" y="1035" as="geometry" />
+        </mxCell>
+        <mxCell id="NNHa9AjM2qQtBTZo5P9e-22" parent="1" style="whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="Inyecta modelos entrenados" vertex="1">
+          <mxGeometry height="40" width="120" x="210" y="820" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
