@@ -23,6 +23,6 @@ La integración se define bajo una relación simbiótica:
 > **Nota:** La integración se visualiza en `image_0ddc76.jpg`, donde el *Model Registry* inyecta inteligencia al *AIOps Engine*, permitiendo que el sistema no solo reaccione a eventos, sino que los anticipe.
 
 ## 5. Estructura del Repositorio
-- `s2026q2a-mlops-varon.drawio`: Archivo fuente del diagrama de arquitectura.
+- `s2026q2_z-mlops-SebastiànVaròn.drawio`: Archivo fuente del diagrama de arquitectura.
 - `diagrama.png`: Versión exportada del diseño para visualización rápida.
 - `README.md`: Documentación técnica del ejercicio.
